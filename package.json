@@ -1,0 +1,31 @@
+{
+  "name": "blog_van",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",                                                    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenchungvan/blog_Van.git"
+  },
+  "keywords": [
+    "nodejs",
+    "be",
+    "blog"
+  ],
+  "author": "nguyenchungvan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenchungvan/blog_Van/issues"
+  },
+  "homepage": "https://github.com/nguyenchungvan/blog_Van#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
